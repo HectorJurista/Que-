@@ -1,6 +1,6 @@
 # Que-
 MAIN
-# Esto = "Que"
+ "Que"
 
 > Un experimento semántico, filosófico y técnico sobre el significado, la identidad y la representación en el lenguaje humano y de programación.
 
